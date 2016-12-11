@@ -1,4 +1,4 @@
-# Multi-objective optimization based location and social network aware recommendation
+# Multi-objective optimization based location, social network and time aware recommendation
 
 Recommendation systems form one of the solutions to deal with the information overload problem by providing personalized services. Using spatial, temporal and social information on recommender systems is a recent trend that increases the performance. Also, recommendation systems can provide dynamic recommendations based on the users' preferences, such that they can give different recommendations for different hours of the day or different days of the week. We propose a recommendation system which considers  more than one criterion to give dynamic recommendation. The recommendation method uses multi-objective optimization approach and gives point of interest (POI) recommendation using several different criteria, namely past check-in locations, hometown of users, time of check-ins, friendship and influence among users.
 
